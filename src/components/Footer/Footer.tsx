@@ -2,8 +2,6 @@ import { Container } from './styles'
 import reactIcon from '../../assets/react-icon.svg'
 import linkedin from '../../assets/linkedin.svg'
 import githubIcon from '../../assets/github.svg'
-import telegram from '../../assets/telegram.svg'
-import instagramIcon from '../../assets/instagram.svg'
 import externallink from '../../assets/external-link.svg'
 import mail from '../../assets/email.svg'
 
